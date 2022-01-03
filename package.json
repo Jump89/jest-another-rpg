@@ -1,0 +1,19 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "rpg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jump89/jest-another-rpg.git"
+  },
+  "author": "Marcio Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jump89/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/Jump89/jest-another-rpg#readme"
+}
