@@ -1,3 +1,3 @@
 # jest-another-
 
-created for me
+created an rpg game with 3 enemies and a player 
